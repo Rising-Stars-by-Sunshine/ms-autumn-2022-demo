@@ -1,2 +1,4 @@
-# ms-autumn-2022-demo
-Machine Learning for Social Science Autumn 2022 Demo
+# Project Title 
+## Task 1 Title
+## Task 2 Title
+## Task 3 Title
